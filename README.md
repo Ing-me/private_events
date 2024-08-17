@@ -1,24 +1,15 @@
-# README
+# PRIVATE-EVENTS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is about to create a private events app where the users will be allowed to create events and then manage user signups.
 
-Things you may want to cover:
+In this application a user can:
 
-* Ruby version
+* Create events
 
-* System dependencies
+* Can attend many events
 
-* Configuration
+* Update events
 
-* Database creation
+* Delete events
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
