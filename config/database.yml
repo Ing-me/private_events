@@ -23,7 +23,7 @@ default: &default
 
 development:
   <<: *default
-  database: private_events_development
+  database: private_events
 
   # The specified database role being used to connect to PostgreSQL.
   # To create additional roles in PostgreSQL see `$ createuser --help`.
